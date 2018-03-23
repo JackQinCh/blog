@@ -1,3 +1,3 @@
 # blog
 
-Blog link: https://github.com/JackQinCh/blog/wiki
+Blog [link](https://github.com/JackQinCh/blog/wiki)
